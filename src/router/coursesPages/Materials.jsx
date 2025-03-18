@@ -8,7 +8,7 @@ const MATERIALS = [
   { id: 3, title: "Lesson-3  React Hooks", number: 3 },
   { id: 4, title: "Lesson-4  React useRef", number: 4 },
   { id: 5, title: "Lesson-5  React useState", number: 5 },
-
+  { id: 6, title: "Lesson-6  React Context", number: 6 },
 ];
 
 const Materials = () => {
